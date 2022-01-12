@@ -9,4 +9,4 @@ As simple as it is. Try it and Enjoy it
 
 ## Live Preview
 
-[Live demo](https://https://social-proof-44a06c.netlify.app)
+[Live demo](https://social-proof-44a06c.netlify.app)
