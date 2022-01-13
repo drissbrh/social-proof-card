@@ -1,6 +1,6 @@
 # Social Proof Card
 
-Made with
+Made with ❤️
 As simple as it is. Try it and Enjoy it
 
 ### Version
